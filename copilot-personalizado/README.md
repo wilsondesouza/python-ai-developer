@@ -12,12 +12,6 @@ Este guia prático ensina como criar, personalizar e otimizar seu próprio agent
 
 ## 🚀 Passo a Passo
 
-
-
-
-
-
-
 ### 1️⃣ Criando um Copilot em Branco
 
 1. Acesse o [Copilot Studio](https://copilotstudio.microsoft.com) e inicie uma avaliação gratuita (prefira seu e-mail institucional, se possível).
